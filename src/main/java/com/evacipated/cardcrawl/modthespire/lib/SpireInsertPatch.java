@@ -23,7 +23,11 @@ public @interface SpireInsertPatch {
     int loc() default -1;
     
     /**
-     * unused? I think
+     * rloc is a relative line number in the Slay The Spire
+     * file to inser the patch
+     * 
+     * it starts numbering at the beginning of the method
+     * rather than the beginning of the file
      */
     int rloc() default -1;
     

@@ -14,5 +14,5 @@ public @interface ByRef {
 	 * 
 	 * likely to be "com.megacrit.cardcrawl.somethinggoeshere"
 	 */
-    String cls();
+    String cls() default "primitive";
 }

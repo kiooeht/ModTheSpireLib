@@ -1,5 +1,5 @@
 # ModTheSpireLib
 
-ModTheSpireLib is a small library for making mods loaded by [ModTheSpire](https://github.com/kiooeht/ModTheSpire).
+**This repository is deprecated.**
 
-Documentation for using ModTheSpireLib can be found [here](https://github.com/kiooeht/ModTheSpire/wiki/SpirePatch).
+It has been merged into [ModTheSpire](https://github.com/kiooeht/ModTheSpire).
